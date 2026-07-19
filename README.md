@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=007ACC&center=true&vCenter=true&width=600&lines=¡Hola!+Bienvenido+a+mi+perfil;¡Gracias+por+pasarte+por+aquí!;Apasionado+por+el+desarrollo+limpio+y+eficiente;Siempre+explorando+nuevas+tecnologías" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=007ACC&center=true&vCenter=true&width=600&lines=¡Hola!+Bienvenido+a+mi+perfil;¡Gracias+por+pasarte+por+aquí!;Apasionado+por+el+desarrollo+limpio+y+eficiente;Siempre+explorando+nuevas+tecnologías" alt="¡Hola! Bienvenido a mi perfil" />
   </a>
 </div>
-
 <br>
 
 ### Sobre mí
