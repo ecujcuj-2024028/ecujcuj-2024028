@@ -2,11 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-# Permisos necesarios para que el action pueda subir la imagen a tu repositorio
 permissions:
   contents: write
 
@@ -14,16 +12,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ecujcuj-2024028
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit snake graphic to main
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git commit -m "chore: update contribution snake graphs [skip ci]" || echo "No changes to commit"
+          git push origin main
