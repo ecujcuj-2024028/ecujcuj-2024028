@@ -18,7 +18,7 @@
 Puedes visitar mi sitio web personal o explorar una selección de mis desarrollos más recientes:
 
 <p align="left">
-  <a href="https://aun_en_desarrollo" target="_blank">
+  <a href="https://portafolio-edvin-cujcuj.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Portafolio_Web-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Web" />
   </a>
 </p>
