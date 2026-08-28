@@ -38,9 +38,9 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 
 ### Estadísticas de GitHub
 
+<!-- Instancia alternativa funcional -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ecujcuj-2024028&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="195"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ecujcuj-2024028&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="195"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ecujcuj-2024028&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Gráfico de actividad"/>
 </p>
 
 <p align="center">
