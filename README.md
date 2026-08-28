@@ -47,7 +47,7 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ecujcuj-2024028&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Gráfico de actividad"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ecujcuj-2024028&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Logros de GitHub" />
 </p>
 
 <hr>
