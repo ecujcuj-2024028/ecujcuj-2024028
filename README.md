@@ -23,7 +23,6 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
   </a>
 </p>
 
-
 ---
 
 ### Tecnologías y Herramientas
@@ -38,9 +37,9 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 
 ### Estadísticas de GitHub
 
-<!-- Instancia alternativa funcional -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ecujcuj-2024028&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Gráfico de actividad"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ecujcuj-2024028&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="195"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ecujcuj-2024028&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="195"/>
 </p>
 
 <p align="center">
@@ -48,7 +47,7 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ecujcuj-2024028&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Gráfico de actividad"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ecujcuj-2024028&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Gráfico de actividad"/>
 </p>
 
 <hr>
@@ -60,15 +59,15 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edvin-leonel-cujcuj-ejcalón-42852241a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/edvin-leonel-cujcuj-ejcal%C3%B3n-42852241a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &emsp;
   <a href="mailto:ecujcuj9@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
   &emsp;
-  <a href="https://github.com/ecujcuj-2024028">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/ecujcuj-2024028" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
